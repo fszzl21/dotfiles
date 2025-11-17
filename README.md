@@ -14,8 +14,7 @@ It is lightweight as it is using around 1-3 GB RAM on daily usage.
 ![Showcase1](./Showcase/20251116_20h15m00s_grim.png)
 ![Showcase2](./Showcase/20251116_20h16m09s_grim.png)
 ![Showcase3](./Showcase/20251116_20h16m27s_grim.png)
-![Showcase4](./Showcase/20251116_20h17m22s_grim.png)
-![Showcase5](./Showcase/20251116_20h20m12s_grim.png)
+![Showcase4](./Showcase/20251116_20h20m12s_grim.png)
 
 ## Install
 
